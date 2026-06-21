@@ -1,0 +1,10 @@
+check,value
+expression_rows_before_matching,3168
+metadata_rows_before_matching,3168
+shared_samples,3168
+expression_only_samples,0
+metadata_only_samples,0
+gene_columns_in_expression,21912
+genes_in_gene_names_csv,21912
+missing_genes_from_expression,0
+extra_expression_gene_columns,0
